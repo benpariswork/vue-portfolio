@@ -72,7 +72,7 @@ export default {
 	</section>
 </template>
 
-<style scoped>
+<!-- <style scoped>
 .intro-row {
 	display: flex;
 	flex-direction: row;
@@ -84,4 +84,4 @@ export default {
 	flex-direction: row;
 	justify-content: flex-end;
 }
-</style>
+</style> -->
