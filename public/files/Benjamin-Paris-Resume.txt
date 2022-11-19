@@ -1,0 +1,35 @@
+﻿Benjamin Paris  
+  Seattle, WA 98102
+Phone: (206) 437-5244 | Email: work@benparis.net
+LinkedIn: https://www.linkedin.com/in/benpariswork  |  Github: https://github.com/benpariswork
+Summary
+White hat hacker, application security engineer at learno.io, and freelance web developer via benparis.net. My formal education in cybersecurity gave me a strong foundation for my tech career, but it has been my hard work that has gotten me where I am today. Working closely with industry leaders has given me the experience necessary to be valuable on any modern team.
+Skills
+MongoDB, Express, React, Vue, NodeJS, HTML, CSS, AWS Tools(IAM, S3, EC2, Cloudfront, VPC, SES, etc.), GitHub CI/CD, Code Review, Bash Scripting, Docker, Metasploit, Wireshark, Nmap, Hydra, Threat Assessment, Risk Mitigation, Operational Security, Security Systems
+Projects
+Vue.js Portfolio: https://github.com/benpariswork/john-doe/
+* Simple portfolio that is easy to adapt to a variety of industries:
+* Theme Switcher (light/dark), Contact Form, Welcome, About, Contact pages, Static Architecture: inexpensive, easy, and secure deployment.
+Red vs Blue: https://github.com/benpariswork/Red_vs_Blue
+* Penetration testing report in the form of a presentation including:
+* Network Topology, Red Team: Security Assessment, Blue Team: Log Analysis and Attack Characterization, Hardening: Proposed Alarms and Mitigation Strategies
+Automated ELK Stack Deployment: https://github.com/benpariswork/Automated-ELK-Deployment
+* Using automation to deploy a virtual network, a load-balanced instance of DVWA, as well as an ELK stack and filebeat for monitoring public facing services.
+* Deployment through automation allows users to quickly and precisely recreate environments; this makes the process scalable and eliminates the possibility of error. 
+Experience
+ Application Security Engineer | Learno.io                             Seattle, WA | Aug, 2022 - Present
+* Node.js APIs for mongoDB, authentication (MD5 checksum), JWT & CSRF.
+* CDN Signed URLs, auth tokens, key management, DNS management.
+* Responsible for final security review of all code and infrastructure.
+ Freelance Web Dev | benparis.net             Seattle, WA/San Diego, CA | August, 2022 - Present
+* Services: dynamic and static website design, full stack web development, system administration, security review.
+Device Technician | Meta via Q Analysts             Redmond, WA | Dec, 2021 - September 2022
+* Was responsible for provisioning of embedded AR/VR devices using Windows CLI, Linux CLI, shell scripting, and python 3.
+* Risk analysis and mitigation for workflows used throughout device operations as well as engagement events.
+* Corresponded and answered to a variety of senior managers and stakeholders.
+* Provided troubleshooting for a variety of SAAS suites in order to unblock tickets.
+* Participated in daily sprint planning to ensure all tickets were tracked and fulfilled.
+Bullpen Hero | Amazon                                              Seattle, WA | June, 2021 - March, 2022
+* Directed an adaptive team with 2-6 essential workers for 40+ hours/week.
+* Utilized a variety of internal tools in order to ensure the accuracy of thousands of items going to nearly as many customers (hourly).
+* Collaborated with senior management on scripts to improve productivity for workflows used in critical and non-critical roles.
