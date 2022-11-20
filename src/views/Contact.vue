@@ -21,11 +21,11 @@ export default {
 					name: 'work@benparis.net',
 					icon: 'mail',
 				},
-				{
-					id: 3,
-					name: '+1 (206) 437 5244',
-					icon: 'phone',
-				},
+				// {
+				// 	id: 3,
+				// 	name: '+1 (206) 437 5244',
+				// 	icon: 'phone',
+				// },
 			],
 		};
 	},
